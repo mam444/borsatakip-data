@@ -1,0 +1,44 @@
+name: Update Market Data
+
+on:
+  schedule:
+    # Every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Create data directory
+        run: mkdir -p data
+
+      - name: Fetch market data
+        run: node scripts/fetch-market-data.js
+        env:
+          GITHUB_ACTIONS: true
+
+      - name: Commit and push if data changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/ || true
+          if git diff-index --quiet HEAD --; then
+            echo "No changes in data files"
+          else
+            git commit -m "chore: update market data ($(date -u +'%Y-%m-%d %H:%M:%S') UTC)"
+            git push
+          fi
