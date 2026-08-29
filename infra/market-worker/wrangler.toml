@@ -1,0 +1,9 @@
+name = "borsatakip-market-worker"
+main = "index.js"
+compatibility_date = "2026-08-29"
+
+[triggers]
+crons = ["*/5 * * * *"]
+
+[vars]
+WARM_SYMBOLS = "^XU100,^GSPC,THYAO.IS,AKBNK.IS,AAPL,BTC-USD,USDTRY=X"

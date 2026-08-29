@@ -1,0 +1,74 @@
+{
+  "expo": {
+    "name": "BorsaTakip",
+    "slug": "borsatakip",
+    "scheme": "borsatakip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-premium-v1.png",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#07120F",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.borsatakip.app"
+    },
+    "android": {
+      "package": "com.borsatakip.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#07120F",
+        "foregroundImage": "./assets/android-icon-foreground-premium-v1.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "RECEIVE_BOOT_COMPLETED",
+        "SCHEDULE_EXACT_ALARM",
+        "com.android.vending.BILLING"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/icon-premium-v1.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-font",
+      "expo-web-browser",
+      "expo-background-fetch",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#07120F",
+          "image": "./assets/icon-premium-v1.png",
+          "dark": {
+            "backgroundColor": "#07120F"
+          }
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/android-icon-monochrome.png",
+          "color": "#67F1B2"
+        }
+      ],
+      "@react-native-community/datetimepicker",
+      "@sentry/react-native",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-3940256099942544~3347511713",
+          "iosAppId": "ca-app-pub-3940256099942544~1458002511"
+        }
+      ]
+    ],
+    "extra": {
+      "router": {},
+      "sentryDsn": "",
+      "adBannerIdAndroid": "",
+      "adBannerIdIos": "",
+      "adInterstitialIdAndroid": "",
+      "adInterstitialIdIos": ""
+    }
+  }
+}
