@@ -1,0 +1,11 @@
+{
+  "lastUpdated": 1788009745448,
+  "dataSource": "GitHub Actions + Yahoo Finance (chart-meta)",
+  "isStale": true,
+  "quotesCount": 37,
+  "chartsCount": 37,
+  "totalSymbols": 38,
+  "failedSymbols": [
+    "KOZAL.IS"
+  ]
+}
