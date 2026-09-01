@@ -1,12 +1,11 @@
 {
-  "lastUpdated": 1788291029129,
+  "lastUpdated": 1788299763798,
   "dataSource": "GitHub Actions + Yahoo Finance (chart-meta)",
   "isStale": true,
-  "quotesCount": 36,
-  "chartsCount": 36,
+  "quotesCount": 37,
+  "chartsCount": 37,
   "totalSymbols": 38,
   "failedSymbols": [
-    "PGSUS.IS",
     "KOZAL.IS"
   ]
 }
