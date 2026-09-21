@@ -1,11 +1,28 @@
 {
-  "lastUpdated": 1789954503014,
+  "lastUpdated": 1789974139394,
   "dataSource": "GitHub Actions + Yahoo Finance (chart-meta)",
   "isStale": true,
-  "quotesCount": 37,
-  "chartsCount": 37,
+  "quotesCount": 20,
+  "chartsCount": 20,
   "totalSymbols": 38,
   "failedSymbols": [
-    "KOZAL.IS"
+    "THYAO.IS",
+    "GARAN.IS",
+    "AKBNK.IS",
+    "ISCTR.IS",
+    "YKBNK.IS",
+    "KCHOL.IS",
+    "SAHOL.IS",
+    "BIMAS.IS",
+    "ASELS.IS",
+    "EREGL.IS",
+    "TUPRS.IS",
+    "PGSUS.IS",
+    "SISE.IS",
+    "KOZAL.IS",
+    "TOASO.IS",
+    "XU100.IS",
+    "XU030.IS",
+    "^GDAXI"
   ]
 }
