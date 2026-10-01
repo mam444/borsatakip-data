@@ -1,11 +1,12 @@
 {
-  "lastUpdated": 1790817703920,
+  "lastUpdated": 1790838935609,
   "dataSource": "GitHub Actions + Yahoo Finance (chart-meta)",
   "isStale": true,
-  "quotesCount": 37,
-  "chartsCount": 37,
+  "quotesCount": 36,
+  "chartsCount": 36,
   "totalSymbols": 38,
   "failedSymbols": [
-    "KOZAL.IS"
+    "KOZAL.IS",
+    "^GDAXI"
   ]
 }
