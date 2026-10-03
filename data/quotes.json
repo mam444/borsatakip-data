@@ -13,7 +13,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047278874,
+    "lastUpdated": 1791056941484,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -31,7 +31,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047279222,
+    "lastUpdated": 1791056941843,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -49,7 +49,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047279568,
+    "lastUpdated": 1791056942200,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -67,7 +67,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047279918,
+    "lastUpdated": 1791056942565,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -85,7 +85,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047280272,
+    "lastUpdated": 1791056942924,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -103,7 +103,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047280621,
+    "lastUpdated": 1791056943286,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -121,7 +121,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047280972,
+    "lastUpdated": 1791056943653,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -139,7 +139,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047281316,
+    "lastUpdated": 1791056944011,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -157,7 +157,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047281666,
+    "lastUpdated": 1791056944379,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -175,7 +175,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047282025,
+    "lastUpdated": 1791056944734,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -193,7 +193,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047282370,
+    "lastUpdated": 1791056945094,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -211,7 +211,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047282716,
+    "lastUpdated": 1791056945479,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -229,7 +229,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047283061,
+    "lastUpdated": 1791056945834,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -247,7 +247,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047283755,
+    "lastUpdated": 1791056946567,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -265,7 +265,7 @@
     "currency": "USD",
     "fullExchangeName": "NMS",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047284104,
+    "lastUpdated": 1791056946895,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -283,7 +283,7 @@
     "currency": "USD",
     "fullExchangeName": "NMS",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047284475,
+    "lastUpdated": 1791056947221,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -301,7 +301,7 @@
     "currency": "USD",
     "fullExchangeName": "NMS",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047284823,
+    "lastUpdated": 1791056947587,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -319,7 +319,7 @@
     "currency": "USD",
     "fullExchangeName": "NMS",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047285168,
+    "lastUpdated": 1791056947973,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -337,7 +337,7 @@
     "currency": "USD",
     "fullExchangeName": "NMS",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047285513,
+    "lastUpdated": 1791056948302,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -355,7 +355,7 @@
     "currency": "USD",
     "fullExchangeName": "NMS",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047285856,
+    "lastUpdated": 1791056948661,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -373,7 +373,7 @@
     "currency": "USD",
     "fullExchangeName": "NMS",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047286201,
+    "lastUpdated": 1791056948988,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -391,7 +391,7 @@
     "currency": "USD",
     "fullExchangeName": "NYQ",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047286541,
+    "lastUpdated": 1791056949351,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -409,7 +409,7 @@
     "currency": "USD",
     "fullExchangeName": "NYQ",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047286911,
+    "lastUpdated": 1791056949707,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -427,7 +427,7 @@
     "currency": "USD",
     "fullExchangeName": "NYQ",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047287251,
+    "lastUpdated": 1791056950066,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -445,7 +445,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047287627,
+    "lastUpdated": 1791056950424,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -463,7 +463,7 @@
     "currency": "TRY",
     "fullExchangeName": "IST",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047287969,
+    "lastUpdated": 1791056950788,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -481,7 +481,7 @@
     "currency": "USD",
     "fullExchangeName": "SNP",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047288327,
+    "lastUpdated": 1791056951156,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -499,7 +499,7 @@
     "currency": "USD",
     "fullExchangeName": "NIM",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047288669,
+    "lastUpdated": 1791056951505,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -517,7 +517,7 @@
     "currency": "USD",
     "fullExchangeName": "DJI",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047289013,
+    "lastUpdated": 1791056951865,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -535,7 +535,7 @@
     "currency": "EUR",
     "fullExchangeName": "GER",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047289356,
+    "lastUpdated": 1791056952223,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -553,7 +553,7 @@
     "currency": "TRY",
     "fullExchangeName": "CCY",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047289705,
+    "lastUpdated": 1791056952613,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -571,7 +571,7 @@
     "currency": "TRY",
     "fullExchangeName": "CCY",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047290054,
+    "lastUpdated": 1791056952982,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -589,7 +589,7 @@
     "currency": "TRY",
     "fullExchangeName": "CCY",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047290427,
+    "lastUpdated": 1791056953337,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -607,7 +607,7 @@
     "currency": "TRY",
     "fullExchangeName": "CCY",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047290773,
+    "lastUpdated": 1791056953697,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
@@ -625,43 +625,43 @@
     "currency": "TRY",
     "fullExchangeName": "CCY",
     "marketState": "CLOSED",
-    "lastUpdated": 1791047291119,
+    "lastUpdated": 1791056954056,
     "dataStatus": "eod",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
   {
     "symbol": "BTC-USD",
     "shortName": "Bitcoin USD",
-    "regularMarketPrice": 84860.07,
-    "regularMarketChange": 353.7340000000113,
-    "regularMarketChangePercent": 0.4185887316189065,
+    "regularMarketPrice": 84758.43,
+    "regularMarketChange": 252.09399999999732,
+    "regularMarketChangePercent": 0.29831372644057996,
     "regularMarketPreviousClose": 84506.336,
     "regularMarketOpen": 84508.421875,
-    "regularMarketDayHigh": 84954.9921875,
+    "regularMarketDayHigh": 85020,
     "regularMarketDayLow": 84433.1875,
-    "regularMarketVolume": 4532609024,
+    "regularMarketVolume": 5316822016,
     "currency": "USD",
     "fullExchangeName": "CCC",
     "marketState": "REGULAR",
-    "lastUpdated": 1791047291491,
+    "lastUpdated": 1791056954438,
     "dataStatus": "realtime",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   },
   {
     "symbol": "ETH-USD",
     "shortName": "Ethereum USD",
-    "regularMarketPrice": 2682.27,
-    "regularMarketChange": 14.066899999999805,
-    "regularMarketChangePercent": 0.5272049942524917,
+    "regularMarketPrice": 2682.61,
+    "regularMarketChange": 14.40689999999995,
+    "regularMarketChangePercent": 0.539947652410716,
     "regularMarketPreviousClose": 2668.2031,
     "regularMarketOpen": 2668.1298828125,
-    "regularMarketDayHigh": 2686.5,
+    "regularMarketDayHigh": 2689.590087890625,
     "regularMarketDayLow": 2665.159912109375,
-    "regularMarketVolume": 5478957568,
+    "regularMarketVolume": 5919448064,
     "currency": "USD",
     "fullExchangeName": "CCC",
     "marketState": "REGULAR",
-    "lastUpdated": 1791047291865,
+    "lastUpdated": 1791056954795,
     "dataStatus": "realtime",
     "dataSource": "GitHub Actions (Yahoo Finance chart-meta)"
   }
